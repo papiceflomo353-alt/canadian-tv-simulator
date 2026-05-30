@@ -87,6 +87,204 @@ CHANNELS = {
             {'time': '23:00', 'title': 'Highlights', 'duration': '60 min'},
         ]
     },
+    'Much Music': {
+        'name': 'Much Music',
+        'number': 7,
+        'logo': 'assets/muchmusic_logo.png',
+        'programs': [
+            {'time': '08:00', 'title': 'Much Morning', 'duration': '240 min'},
+            {'time': '12:00', 'title': 'Much Top 20', 'duration': '60 min'},
+            {'time': '17:00', 'title': 'Afternoon Countdown', 'duration': '120 min'},
+            {'time': '20:00', 'title': 'Much at Night', 'duration': '180 min'},
+        ]
+    },
+    'MuchMoreMusic': {
+        'name': 'MuchMoreMusic',
+        'number': 8,
+        'logo': 'assets/muchmore_logo.png',
+        'programs': [
+            {'time': '06:00', 'title': 'Music Video Hits', 'duration': '180 min'},
+            {'time': '09:00', 'title': 'Rock Block', 'duration': '180 min'},
+            {'time': '18:00', 'title': 'Evening Videos', 'duration': '240 min'},
+            {'time': '23:00', 'title': 'Late Night Mix', 'duration': '120 min'},
+        ]
+    },
+    'MuchLoud': {
+        'name': 'MuchLoud',
+        'number': 9,
+        'logo': 'assets/muchloud_logo.png',
+        'programs': [
+            {'time': '07:00', 'title': 'Hard Rock Hits', 'duration': '180 min'},
+            {'time': '10:00', 'title': 'Metal Madness', 'duration': '240 min'},
+            {'time': '15:00', 'title': 'Underground Videos', 'duration': '180 min'},
+            {'time': '21:00', 'title': 'Electric Night', 'duration': '180 min'},
+        ]
+    },
+    'CTV Two': {
+        'name': 'CTV Two',
+        'number': 10,
+        'logo': 'assets/ctvtwo_logo.png',
+        'programs': [
+            {'time': '08:00', 'title': 'Morning News', 'duration': '120 min'},
+            {'time': '12:00', 'title': 'Midday Report', 'duration': '60 min'},
+            {'time': '17:00', 'title': 'Late Afternoon', 'duration': '120 min'},
+            {'time': '22:00', 'title': 'Night Report', 'duration': '60 min'},
+        ]
+    },
+    'Treehouse TV': {
+        'name': 'Treehouse TV',
+        'number': 11,
+        'logo': 'assets/treehouse_logo.png',
+        'programs': [
+            {'time': '06:00', 'title': 'Toopy and Binoo', 'duration': '120 min'},
+            {'time': '08:00', 'title': 'Kids Programming Block', 'duration': '240 min'},
+            {'time': '12:00', 'title': 'Lunch Time TV', 'duration': '180 min'},
+            {'time': '17:00', 'title': 'After School Cartoons', 'duration': '180 min'},
+        ]
+    },
+    'YTV': {
+        'name': 'YTV',
+        'number': 12,
+        'logo': 'assets/ytv_logo.png',
+        'programs': [
+            {'time': '07:00', 'title': 'YTV Morning', 'duration': '180 min'},
+            {'time': '10:00', 'title': 'Action Time', 'duration': '180 min'},
+            {'time': '15:00', 'title': 'Afternoon Adventures', 'duration': '120 min'},
+            {'time': '19:00', 'title': 'Prime Time Kids', 'duration': '120 min'},
+        ]
+    },
+    'Cartoon Network': {
+        'name': 'Cartoon Network',
+        'number': 13,
+        'logo': 'assets/cartoon_logo.png',
+        'programs': [
+            {'time': '06:00', 'title': 'Morning Cartoons', 'duration': '240 min'},
+            {'time': '10:00', 'title': 'Classic Shows', 'duration': '180 min'},
+            {'time': '14:00', 'title': 'Afternoon Block', 'duration': '180 min'},
+            {'time': '19:00', 'title': 'Family Hour', 'duration': '120 min'},
+        ]
+    },
+    'HBO Canada': {
+        'name': 'HBO Canada',
+        'number': 14,
+        'logo': 'assets/hbo_logo.png',
+        'programs': [
+            {'time': '07:00', 'title': 'HBO Movie Time', 'duration': '120 min'},
+            {'time': '09:00', 'title': 'Series Drama', 'duration': '60 min'},
+            {'time': '20:00', 'title': 'Prime Movie', 'duration': '120 min'},
+            {'time': '23:00', 'title': 'Late Night Cinema', 'duration': '120 min'},
+        ]
+    },
+    'Space': {
+        'name': 'Space',
+        'number': 15,
+        'logo': 'assets/space_logo.png',
+        'programs': [
+            {'time': '08:00', 'title': 'Sci-Fi Morning', 'duration': '120 min'},
+            {'time': '14:00', 'title': 'Stargate SG-1', 'duration': '60 min'},
+            {'time': '20:00', 'title': 'Sci-Fi Original', 'duration': '60 min'},
+            {'time': '22:00', 'title': 'Space Night', 'duration': '120 min'},
+        ]
+    },
+    'Discovery Channel': {
+        'name': 'Discovery Channel',
+        'number': 16,
+        'logo': 'assets/discovery_logo.png',
+        'programs': [
+            {'time': '07:00', 'title': 'Discovery Morning', 'duration': '120 min'},
+            {'time': '09:00', 'title': 'MythBusters', 'duration': '60 min'},
+            {'time': '14:00', 'title': 'Documentaries', 'duration': '180 min'},
+            {'time': '19:00', 'title': 'Discovery Primetime', 'duration': '120 min'},
+        ]
+    },
+    'TLC': {
+        'name': 'TLC',
+        'number': 17,
+        'logo': 'assets/tlc_logo.png',
+        'programs': [
+            {'time': '08:00', 'title': 'Home & Garden', 'duration': '120 min'},
+            {'time': '10:00', 'title': 'Trading Spaces', 'duration': '60 min'},
+            {'time': '15:00', 'title': 'Afternoon Programming', 'duration': '180 min'},
+            {'time': '20:00', 'title': 'Lifestyle Prime', 'duration': '120 min'},
+        ]
+    },
+    'The Movie Network': {
+        'name': 'The Movie Network',
+        'number': 18,
+        'logo': 'assets/tmn_logo.png',
+        'programs': [
+            {'time': '06:00', 'title': 'Early Movie', 'duration': '120 min'},
+            {'time': '08:00', 'title': 'Family Film', 'duration': '120 min'},
+            {'time': '16:00', 'title': 'Afternoon Feature', 'duration': '120 min'},
+            {'time': '20:00', 'title': 'Primetime Movie', 'duration': '150 min'},
+        ]
+    },
+    'CityTV Toronto': {
+        'name': 'City Toronto',
+        'number': 19,
+        'logo': 'assets/cityto_logo.png',
+        'programs': [
+            {'time': '07:30', 'title': 'CityNews Morning', 'duration': '150 min'},
+            {'time': '12:00', 'title': 'CityNews Noon', 'duration': '60 min'},
+            {'time': '17:30', 'title': 'CityNews at 5:30', 'duration': '90 min'},
+            {'time': '22:00', 'title': 'CityNews Tonight', 'duration': '60 min'},
+        ]
+    },
+    'A Channel': {
+        'name': 'A Channel',
+        'number': 20,
+        'logo': 'assets/achannel_logo.png',
+        'programs': [
+            {'time': '08:00', 'title': 'A Morning Show', 'duration': '120 min'},
+            {'time': '12:00', 'title': 'A News at Noon', 'duration': '60 min'},
+            {'time': '17:30', 'title': 'A News Evening', 'duration': '90 min'},
+            {'time': '22:00', 'title': 'A News Late', 'duration': '60 min'},
+        ]
+    },
+    'CPAC': {
+        'name': 'CPAC',
+        'number': 21,
+        'logo': 'assets/cpac_logo.png',
+        'programs': [
+            {'time': '08:00', 'title': 'Parliament Live', 'duration': '480 min'},
+            {'time': '14:00', 'title': 'Committee Coverage', 'duration': '180 min'},
+            {'time': '19:00', 'title': 'CPAC Primetime', 'duration': '120 min'},
+            {'time': '23:00', 'title': 'Late Coverage', 'duration': '60 min'},
+        ]
+    },
+    'BNN': {
+        'name': 'BNN',
+        'number': 22,
+        'logo': 'assets/bnn_logo.png',
+        'programs': [
+            {'time': '06:00', 'title': 'Early News', 'duration': '60 min'},
+            {'time': '09:00', 'title': 'Market Call', 'duration': '120 min'},
+            {'time': '13:00', 'title': 'Midday Business', 'duration': '60 min'},
+            {'time': '17:00', 'title': 'Evening Report', 'duration': '180 min'},
+        ]
+    },
+    'Specialty TV': {
+        'name': 'Specialty TV',
+        'number': 23,
+        'logo': 'assets/specialty_logo.png',
+        'programs': [
+            {'time': '07:00', 'title': 'Morning Programming', 'duration': '180 min'},
+            {'time': '12:00', 'title': 'Variety Shows', 'duration': '120 min'},
+            {'time': '17:00', 'title': 'Afternoon Entertainment', 'duration': '180 min'},
+            {'time': '20:00', 'title': 'Special Events', 'duration': '120 min'},
+        ]
+    },
+    'CP24': {
+        'name': 'CP24',
+        'number': 24,
+        'logo': 'assets/cp24_logo.png',
+        'programs': [
+            {'time': '06:00', 'title': 'Morning News', 'duration': '360 min'},
+            {'time': '12:00', 'title': 'Continuous Coverage', 'duration': '360 min'},
+            {'time': '18:00', 'title': 'Evening News', 'duration': '360 min'},
+            {'time': '23:00', 'title': 'Overnight News', 'duration': '360 min'},
+        ]
+    },
 }
 
 RECORDINGS = []
@@ -133,7 +331,7 @@ class CanadianTVSimulator(App):
 
         # Left sidebar - Channel list
         channel_layout = BoxLayout(orientation='vertical', size_hint_x=0.25)
-        channel_label = Label(text='Channels', size_hint_y=0.1, bold=True)
+        channel_label = Label(text='Channels (%d)' % len(CHANNELS), size_hint_y=0.1, bold=True)
         channel_layout.add_widget(channel_label)
 
         channel_scroll = ScrollView(size_hint=(1, 0.9))
